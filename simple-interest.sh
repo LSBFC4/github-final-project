@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # luis_sanchez_beato_frates@carrefour.com (LSBFC4)
 
    # Input:
    # p, principal amount
